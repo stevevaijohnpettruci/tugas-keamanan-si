@@ -90,7 +90,4 @@ Bisa daftar melalui form registrasi atau gunakan akun seed default
 
 ---
 
-## 📞 Kontak
-### 📧 Email: adammiftah196@gmail.com
-### 🌐 Website: www.adammiftah.com
 # tugas-keamanan-si

@@ -13,8 +13,8 @@
 
   <style>
     :root {
-      --primary-color: #4e73df;
-      --secondary-color: #6f42c1;
+      --primary-color: #a220a7;
+      --secondary-color: #971e9b;
       --accent-color: #36b9cc;
       --danger-color: #e74a3b;
       --dark-color: #343a40;
